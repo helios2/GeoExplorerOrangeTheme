@@ -1,7 +1,10 @@
 # GeoExplorerOrangeTheme
 
-A [GeoExplorer] orange theme.
+A [GeoExplorer](https://github.com/boundlessgeo/GeoExplorer) orange theme.
 
 ## How to use
 
-Copy "css" and "images" folders into /geoexplorer/externals/ext/resources
+Copy folders "css" and "images" into 
+> /app/static/externals/ext/resources/
+
+![screenshoot](screenshoot.PNG)
