@@ -1,2 +1,7 @@
 # GeoExplorerOrangeTheme
-This is a GeoExplorer orange theme
+
+A [GeoExplorer] orange theme.
+
+## How to use
+
+Copy "css" and "images" folders into /geoexplorer/externals/ext/resources
