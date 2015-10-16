@@ -6780,9 +6780,9 @@ a.x-menu-item {
 }
 
 .x-window-mc {
-    border-color:#99bbe8;
+    border-color:#ef6c00;
     font: normal 11px tahoma,arial,helvetica,sans-serif;
-    background-color:#dfe8f6;
+    background-color:#ffe0b2;
 }
 
 .x-window-ml {
@@ -6798,15 +6798,15 @@ a.x-menu-item {
 }
 
 .x-window-bbar .x-toolbar {
-    border-top-color:#99bbe8;
+    border-top-color:#ef6c00;
 }
 
 .x-panel-ghost .x-window-tl {
-    border-bottom-color:#99bbe8;
+    border-bottom-color:#ef6c00;
 }
 
 .x-panel-collapsed .x-window-tl {
-    border-bottom-color:#84a0c4;
+    border-bottom-color:#ef6c00;
 }
 
 .x-dlg-mask{
@@ -6814,12 +6814,12 @@ a.x-menu-item {
 }
 
 .x-window-plain .x-window-mc {
-    background-color: #ccd9e8;
-    border-color: #a3bae9 #dfe8f6 #dfe8f6 #a3bae9;
+    background-color: #ffe0b2;
+    border-color: #ef6c00 #ef6c00 #ef6c00 #ef6c00;
 }
 
 .x-window-plain .x-window-body {
-    border-color: #dfe8f6 #a3bae9 #a3bae9 #dfe8f6;
+    border-color: #ef6c00 #ef6c00 #ef6c00 #ef6c00;
 }
 
 body.x-body-masked .x-window-plain .x-window-mc {
